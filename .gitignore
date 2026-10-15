@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+data/faiss_index/
+data/downloads/
+data/master_corpus.txt
+data/sources.jsonl
+data/ingestion_manifest.json
+.pytest_cache/
